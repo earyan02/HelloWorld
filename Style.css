@@ -1,0 +1,13 @@
+body {
+    background-color: darkslateblue;
+}
+div {
+    background-color: rgb(251, 251, 251)
+}
+.heading {
+    color: rgb(127, 196, 113);
+}
+h1 {
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
